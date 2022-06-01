@@ -1,0 +1,2 @@
+# esqueleto
+Esqueleto de proyecto
