@@ -12,6 +12,11 @@ import com.esqueleto.domain.Persona;
 @WebServlet(urlPatterns = { "/personas"})
 public class ServletPersona extends HttpServlet{
 
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+
 	@Override
 	protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
 		RequestDispatcher dispatcher = this.getServletContext().getRequestDispatcher("/personas.jsp");
