@@ -1,6 +1,6 @@
 # esqueleto
 
-pagina inicial-listado
+Proyecto base para un monolito
 http://localhost:8080/EsqueletoV2/listado
 
 
